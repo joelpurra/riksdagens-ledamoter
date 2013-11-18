@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <!--
-riksdagens-ledamoter XSTL transform v0.1.0
+riksdagens-ledamoter XSTL transform v0.1.1
 https://github.com/joelpurra/riksdagens-ledamoter
 
 Copyright 2013, Joel Purra
