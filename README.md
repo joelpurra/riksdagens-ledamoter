@@ -1,6 +1,6 @@
 # [Riksdagens Ledamöter](https://github.com/joelpurra/riksdagens-ledamoter) (riksdagens-ledamoter)
 
-A small utility to extract a list of first name, surname and email to all members of the Swedish Parliament.
+A small utility to extract a list of first name, surname and email to [all members](http://www.riksdagen.se/en/Members-and-parties/) of the [Swedish Parliament](http://www.riksdagen.se/en/).
 
 ## Usage
 
