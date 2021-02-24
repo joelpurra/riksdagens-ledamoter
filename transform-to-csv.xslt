@@ -5,7 +5,7 @@ riksdagens-ledamoter XSTL transform v0.1.1
 https://github.com/joelpurra/riksdagens-ledamoter
 
 Copyright 2013, Joel Purra
-http://joelpurra.com/
+https://joelpurra.com/
 This content is released under the MIT license
 http://joelpurra.mit-license.org/2013
 -->
@@ -15,7 +15,7 @@ http://joelpurra.mit-license.org/2013
     <xsl:strip-space elements="personlista" />
 
     <!-- $newline/$tab workaround for tab/xsl text problems in xmlstarlet -->
-    <!-- http://alistapart.com/d/usingxml/xml_uses_f.html -->
+    <!-- https://alistapart.com/d/usingxml/xml_uses_f.html -->
     <xsl:variable name="newline">
         <xsl:text>&#10;</xsl:text>
     </xsl:variable>
